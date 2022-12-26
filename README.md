@@ -1,4 +1,4 @@
 <div align='center' width="6rem">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maddy020&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maddy020&theme=dark&layout=compact)](https://github.com/Rishav1707/github-readme-stats)
+    <img   width="400px" src="https://github-readme-stats.vercel.app/api?username=maddy020&theme=dark&show_icons=true"/>
+    <img  width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=maddy020&theme=dark&border_radius=5" alt= "stats"/>
 </div>
